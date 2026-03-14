@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-03-14T11:30:00Z",
+  "packs": [
+    {
+      "packId": "nl-utrecht-z5-14-2026-03-14",
+      "name": "Utrecht",
+      "regionType": "city",
+      "version": "2026-03-14",
+      "format": "pmtiles",
+      "minZoom": 5,
+      "maxZoom": 14,
+      "bbox": [4.79085, 51.8562, 5.62829, 52.3049],
+      "sizeBytes": 45027314,
+      "sha256": "8f9639c91266f779aa4a36d6f5beda8730643ed1ebc8d7c5afe03e401360ea76",
+      "downloadUrl": "https://cdn.example.com/maps/nl-utrecht-z5-14-2026-03-14.pmtiles"
+    }
+  ]
+}
